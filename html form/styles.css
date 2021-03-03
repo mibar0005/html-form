@@ -1,0 +1,20 @@
+form label {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: #000;
+    font-family: arial;
+    width: 100%;
+  }
+
+  form textarea {
+    height: 4.75rem;
+    width: 100%;
+    color: #000;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+
+  * {
+    background-color: rgb(128, 218, 240)
+  };
